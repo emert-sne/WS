@@ -1,1 +1,1 @@
-# WS
+# WS Ini merupakan atur cara python mengenai permainan teka musik lagu 80-90an. Cara bermain adalah yang pengguna akan diberikan huruf depan bagi tajuk lagu sebagai contoh " Uptown Girl : Westlife", soalan akan diberikan berbentuk (sila teka lagu berikut - U G dan artisnya adalah westlife) jadi pengguna perlu memasukan jawapan yang betul. Pengguna hanya mempunyai tiga kali cubaan bagi meneka lagu dan setiap soalan yang betul akan mendapat satu markah. 
